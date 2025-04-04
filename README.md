@@ -1,0 +1,1 @@
+The tool is not malicious and can help you in good cases such as if you can no longer access your computer or if it no longer responds to your commands. Just run the program and from there you can select everything you want to do. 
